@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор CalcLite</string>
+    <string name="display_default">0</string>
+    <string name="msg_memory_add">Значение добавлено в память.</string>
+    <string name="msg_memory_clear">Память очищена.</string>
+    <string name="err_div_by_zero">Ошибка! Попытка деления на ноль.</string>
+    <string name="err_memory_addition">Ошибка! Невозможно выполнить сложение, память пуста.</string>
+    <string name="err_memory_subtraction">Ошибка! Невозможно выполнить вычитание, память пуста.</string>
+</resources>

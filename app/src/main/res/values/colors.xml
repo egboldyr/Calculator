@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#000000</color>
+    <color name="display_background">#DCDCDC</color>
+    <color name="copyright_text_color">#FFFFFF</color>
+    <color name="text_operations_color">#696969</color>
+    <color name="text_on_buttons">#FFFFFF</color>
+    <color name="display_text_color">#000000</color>
+    <color name="button_c">#B22222</color>
+    <color name="button_numbers">#696969</color>
+    <color name="button_operations">#D2691E</color>
+    <color name="button_memory_operations">#6A5ACD</color>
+    <color name="button_result">#2E8B57</color>
+    <color name="button_onclick">#008080</color>
+    <color name="widget_background">#808080</color>
+    <color name="widget_display">#778899</color>
+    <color name="widget_buttons">#A9A9A9</color>
+    <color name="widget_text_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator CalcLite</string>
+    <string name="display_default">0</string>
+    <string name="msg_memory_add">Value added to the memory!</string>
+    <string name="msg_memory_clear">Memory is cleared.</string>
+    <string name="err_div_by_zero">Error! Attempt division by zero.</string>
+    <string name="err_memory_addition">Error! Could not perform the addition, memory is empty.</string>
+    <string name="err_memory_subtraction">Error! Could not perform the subtraction, memory is empty.</string>
+
+</resources>
